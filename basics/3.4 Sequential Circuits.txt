@@ -1,0 +1,46 @@
+Here is a list of subtopics that are usually covered under Sequential Logic and Circuits:
+
+1. **State Machines**: State machines are digital circuits that have memory elements and produce an output based on the present input and the past input history. They are used to model sequential systems.
+
+2. **Flip-Flops**: Flip-flops are the basic building blocks of sequential circuits. They are bistable devices that can store one bit of information.
+
+3. **Registers**: Registers are sequential circuits that can store multiple bits of information. They are used for temporary storage of data in digital systems.
+
+4. **Counters**: Counters are sequential circuits that produce a sequence of binary numbers. They are used for counting events in digital systems.
+
+5. **Shift Registers**: Shift registers are sequential circuits that can shift data in one direction. They are used for serial-to-parallel and parallel-to-serial data conversion.
+
+6. **Synchronous Sequential Circuits**: Synchronous sequential circuits are digital circuits that use a clock signal to synchronize the operation of memory elements. They are designed using state diagrams, state tables, and excitation tables.
+
+7. **Asynchronous Sequential Circuits**: Asynchronous sequential circuits are digital circuits that do not use a clock signal to synchronize the operation of memory elements. They are designed using flow tables and state reduction techniques.
+
+8. **State Reduction Techniques**: State reduction techniques are used to reduce the number of states in a sequential circuit without changing its behavior.
+
+9. **Design Procedures**: Design procedures for sequential logic circuits involve defining the problem, determining the number of input and output variables, fixing letter symbols to the inputs and outputs, getting the relationship between input and output from the truth table, obtaining the simplified Boolean expression for the outputs using K-map, drawing the logic diagram using gates, etc.
+
+Here are some resources you can use for further reading:
+
+¹: "Sequential Logic," Electronics Hub ¹.
+²: "Digital Electronics - Sequential Logic Circuits," Tutorialspoint ².
+³: "Sequential Logic," All About Circuits ³.
+⁴: "Digital Electronics - Sequential Logic," GeeksforGeeks ⁴.
+
+I hope this helps! Let me know if you have any further questions.
+
+Source: Conversation with Bing, 26/10/2023
+(1) NPTEL Syllabus - Digital Circuits and Systems. https://archive.nptel.ac.in/content/syllabus_pdf/117106086.pdf.
+(2) Digital Logic Circuits - Regulation 2017 Syllabus - STUCOR. https://stucor.in/syllabus/s-ee8351/.
+(3) EE3302 – Digital Logic Circuits – Regulation 2021 Syllabus. https://anna.university/24313456/ee3302-digital-logic-circuits-regulation-2021-syllabus.
+(4) Introduction of Sequential Circuits - GeeksforGeeks. https://www.geeksforgeeks.org/introduction-of-sequential-circuits/.
+(5) Analog and Digital Electronics 2021 - BIET. http://biet.ac.in/coursecontent/cse/secondr18/ANALOG%20AND%20DIGITAL%20ELECTRONICS%202021.pdf.
+(6) Sequential logic - Wikipedia. https://en.wikipedia.org/wiki/Sequential_logic.
+(7) NYU Classes : DIG LOGIC & STATE MACHINE DSGN, Section ALEC : Syllabus. https://engineering.nyu.edu/sites/default/files/2020-09/CS-UY%202204%20Digital%20Logic.pdf.
+(8) Module 5 - Lecture notes 5 Sequential Circuits - Studocu. https://www.studocu.com/in/document/vellore-institute-of-technology/digital-logic-and-design/module-5-lecture-notes-5-sequential-circuits/16013224.
+(9) Lecture Notes for Sequential Logic Circuits - Mahatma Gandhi Central .... https://mgcub.ac.in/pdf/material/2020040417211154609be134.pdf.
+(10) Course Syllabus - Philadelphia University. https://www.philadelphia.edu.jo/engineering/Computer/syllabus/Logic_Circuits.pdf.
+(11) ANALOG & DIGITAL ELECTRONICS - IIT Guwahati. https://www.iitg.ac.in/apvajpeyi/ph218/PH-218%20-%20Introduction.pdf.
+(12) Digital Electronics Part I – Combinational and Sequential Logic. https://www.cl.cam.ac.uk/teaching/0708/DigElec/Digital_Electronics_pdf.pdf.
+(13) EE3302 – Digital Logic Circuits – Regulation 2021 Syllabus. https://stucor.in/syllabus/s-ee3302/.
+(14) 0630261 Logic Circuits - Philadelphia University. https://www.philadelphia.edu.jo/academics/qhamarsheh/uploads/0630261_Logic_Circuits.pdf.
+(15) ELECTRICAL AND ELECTRONICS ENGINEERING CODE COURSE NAME CATEGORY L T P .... http://ee.cet.ac.in/program/btech/KTU_2019/EET206-Digital%20Electronics.pdf.
+(16) DEPARTMENT OF ELECTRONICS AND COMMUNICATION ENGINEERING M.Tech VLSI .... https://www.manit.ac.in/sites/default/files/documents/M_Tech__VLSI_Syllabus_.pdf.

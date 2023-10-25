@@ -1,0 +1,47 @@
+Here is a list of subtopics that are usually covered under Combinatorial Logic and Circuits:
+
+1. **Boolean Algebra**: Boolean algebra is a branch of algebra that deals with binary variables and logic operations. It is used to simplify and analyze digital circuits.
+
+2. **Logic Gates**: Logic gates are the basic building blocks of digital circuits. They perform Boolean operations on input signals to produce an output signal.
+
+3. **Combinational Logic Circuits**: Combinational logic circuits are digital circuits that produce an output based on the present input only. They do not have any memory elements.
+
+4. **Adders and Subtractors**: Adders and subtractors are combinational logic circuits that perform arithmetic operations on binary numbers.
+
+5. **Multiplexers and Demultiplexers**: Multiplexers and demultiplexers are combinational logic circuits that select one of several input signals and route it to a single output.
+
+6. **Encoders and Decoders**: Encoders and decoders are combinational logic circuits that convert one form of data into another form.
+
+7. **Comparators**: Comparators are combinational logic circuits that compare two binary numbers and produce an output based on the comparison.
+
+8. **Code Converters**: Code converters are combinational logic circuits that convert one binary code into another binary code.
+
+9. **Parity Generators and Checkers**: Parity generators and checkers are combinational logic circuits that add or check parity bits in a binary code.
+
+10. **Design Procedures**: Design procedures for combinational logic circuits involve defining the problem, determining the number of input and output variables, fixing letter symbols to the inputs and outputs, getting the relationship between input and output from the truth table, obtaining the simplified Boolean expression for the outputs using K-map, drawing the logic diagram using gates, etc.
+
+Here are some resources you can use for further reading:
+
+¹: "Combinational Logic," Electronics Hub ¹.
+²: "Digital Electronics - Combinational Logic Circuits," Tutorialspoint ².
+³: "Combinational Logic," All About Circuits ³.
+⁴: "Digital Electronics - Combinational Logic," GeeksforGeeks ⁴.
+
+I hope this helps! Let me know if you have any further questions.
+
+Source: Conversation with Bing, 26/10/2023
+(1) BCA 11 COMPUTER FUNDAMENTALS - Chaudhary Devi Lal University. https://www.cdlu.ac.in/wp-content/uploads/2018/01/CDLU-BCA-Syllabi-2021-22-1.pdf.
+(2) EE101: Basic Electronics - IIT Guwahati. https://www.iitg.ac.in/eee/EE101/syllabus.html.
+(3) 0630261 Logic Circuits - Philadelphia University. https://www.philadelphia.edu.jo/academics/qhamarsheh/uploads/0630261_Logic_Circuits.pdf.
+(4) NPTEL Syllabus - Digital Circuits and Systems. https://archive.nptel.ac.in/content/syllabus_pdf/117106086.pdf.
+(5) Combinational logic - Wikipedia. https://en.wikipedia.org/wiki/Combinational_logic.
+(6) Exploring |Combinational and Sequential circuits - Vedantu. https://www.vedantu.com/jee-main/physics-difference-between-combinational-and-sequential-circuits.
+(7) Combinational Logic circuits - Javatpoint. https://www.javatpoint.com/combinational-logic-circuits-in-digital-electronics.
+(8) Combinatory logic - Wikipedia. https://en.wikipedia.org/wiki/Combinatory_logic.
+(9) GATE CSE Book. https://gateoverflow.in/?qa=blob&qa_blobid=16603857986567646822.
+(10) Indian Institute of Space Science and Technology Department of Avionics .... https://www.iist.ac.in/sites/default/files/academic/curriculum/MTech%20VLSI%20and%20Microsystems%20-%20Revised%20Syllabus%20-%202022v2.pdf.
+(11) EE3302 – Digital Logic Circuits – Regulation 2021 Syllabus. https://stucor.in/syllabus/s-ee3302/.
+(12) 2.1 Introduction to Combinational circuits - Sathyabama Institute of .... https://www.sathyabama.ac.in/sites/default/files/course-material/2020-10/Unit2_0.pdf.
+(13) Digital Electronics Part I – Combinational and Sequential Logic. https://www.cl.cam.ac.uk/teaching/0708/DigElec/Digital_Electronics_pdf.pdf.
+(14) ANALOG & DIGITAL ELECTRONICS - IIT Guwahati. https://www.iitg.ac.in/apvajpeyi/ph218/PH-218%20-%20Introduction.pdf.
+(15) Chapter 4: Combinational Logic - Prasad V. Potluri Siddhartha Institute .... https://www.pvpsiddhartha.ac.in/dep_it/lecture%20notes/FDLD_21/UNIT-3.pdf.

@@ -1,0 +1,49 @@
+Sure, here is a list of subtopics that you can cover under AC-DC Converters, DC-DC Converters and Resonant Converters:
+
+1. AC-DC Converters
+    * Rectifiers
+    * Uncontrolled rectifiers
+    * Half-wave rectifiers
+    * Full-wave rectifiers
+    * Controlled rectifiers
+    * Half-controlled rectifiers
+    * Full-controlled rectifiers
+    * Bridge rectifiers
+    * Three-phase rectifiers
+2. DC-DC Converters
+    * Buck converter
+    * Boost converter
+    * Buck-boost converter
+    * Cuk converter
+    * SEPIC converter
+    * Zeta converter
+3. Resonant Converters
+    * Series resonant converters (SRC)
+    * Parallel resonant converters (PRC)
+    * Series-parallel resonant converters (SPRC)
+
+You can also explore the following resources to learn more about these topics:
+
+1. [Power Electronic Converters - IIT Guwahati](https://www.iitg.ac.in/eee/syllabus-details.php?slno=QUdsSnhLakFJL2RUWXhpVXZWTEd6UT09)
+2. [A Comprehensive Review of DC–DC Converter Topologies and Modulation Strategies with Recent Advances in Solar Photovoltaic Systems - MDPI](https://www.mdpi.com/2079-9292/9/1/31)
+3. [LLC Resonant Converters Increase Efficiency in DC-to-DC Applications - Electronic Design](https://www.electronicdesign.com/technologies/power/power-supply/regulators/article/21194007/llc-resonant-converters-increase-efficiency-in-dctodc-applications)
+4. [Electric power conversion - Wikipedia](https://en.wikipedia.org/wiki/Electric_power_conversion)
+
+I hope this helps!
+
+Source: Conversation with Bing, 26/10/2023
+(1) A Review on State-of-the-Art Power Converters: Bidirectional, Resonant .... https://www.mdpi.com/2076-3417/11/21/10172.
+(2) Electric power conversion - Wikipedia. https://en.wikipedia.org/wiki/Electric_power_conversion.
+(3) LLC Resonant Converters Increase Efficiency in DC-to-DC Applications .... https://www.electronicdesign.com/technologies/power/power-supply/regulators/article/21194007/llc-resonant-converters-increase-efficiency-in-dctodc-applications.
+(4) LLC Resonant Converter - STMicroelectronics. https://www.st.com/en/applications/power-supplies-and-converters/llc-resonant-converter.html.
+(5) Three-Phase Bidirectional Isolated AC-DC Matrix-Converter with Full .... https://ieeexplore.ieee.org/document/10292858/.
+(6) M.Tech Power Engineering, EEE Deptt, IIT Guwahati. https://iitg.ac.in/eee/curriculum/MTech/power.html.
+(7) Power Electronic Converters : Department of EEE - IIT Guwahati. https://www.iitg.ac.in/eee/syllabus-details.php?slno=QUdsSnhLakFJL2RUWXhpVXZWTEd6UT09.
+(8) NPTEL :: Electrical Engineering - NOC:Power Electronics. https://archive.nptel.ac.in/courses/108/102/108102145/.
+(9) ECE 792E Syllabus - Power Electronics Research Group. https://research.ece.ncsu.edu/bhattacharya/teaching/ece-792e-syllabus/.
+(10) DC-DC Power Converters - Auburn University Samuel Ginn College of .... https://www.eng.auburn.edu/~agrawvd/COURSE/READING/LOWP/Erikson_DC_2_DC.pdf.
+(11) A Comprehensive Review of DC–DC Converter Topologies and ... - MDPI. https://www.mdpi.com/2079-9292/9/1/31.
+(12) Power supply design seminar | Resources | TI.com. https://www.ti.com/design-resources/seminars/power-supply-design-seminar-psds/psds-resources.html.
+(13) Energies | Free Full-Text | Comparative Study of DC-DC Converters for .... https://www.mdpi.com/1996-1073/15/20/7569.
+(14) undefined. https://doi.org/10.3390/app112110172.
+(15) undefined. https://doi.org/10.3390/electronics9010031.

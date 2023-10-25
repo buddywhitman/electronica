@@ -1,0 +1,41 @@
+Transient and steady-state analysis is also known as **time-domain analysis**. It is a method of analyzing the behavior of a dynamic system over time. The transient response of a system is the response of the system as it approaches its steady-state condition, while the steady-state response is the response of the system after it has reached its steady-state condition ¹²³⁴⁵. 
+I apologize for the oversight. Here is a list of subtopics that you can cover under transient and steady state analysis:
+
+1. Fundamentals of electrical circuit analysis
+2. Transient response analysis
+    * Standard test signals
+    * First-order and second-order systems
+    * Higher-order systems
+    * Transient response of system
+    * Steady-state error for unit, ramp, and parabolic inputs
+3. Steady-state response analysis
+4. Stability analysis using Routh-Hurwitz and Nyquist criteria
+5. Bode plots
+6. Root loci
+7. Lag, lead, and lead-lag compensators
+8. P, PI, and PID controllers
+
+Transient and steady-state behavior of capacitors and inductors are covered under **transient response analysis** and **steady-state response analysis** respectively ¹²³⁴⁵. 
+
+I hope this helps!.
+
+Source: Conversation with Bing, 26/10/2023
+(1) What are the behaviors of capacitors and inductors at time t=0?. https://electronics.stackexchange.com/questions/844/what-are-the-behaviors-of-capacitors-and-inductors-at-time-t-0.
+(2) Capacitors, Inductors, and Transient Circuits. https://uomus.edu.iq/img/lectures21/MUCLecture_2021_122720945.pdf.
+(3) Capacitors and inductors - Stanford University. https://web.stanford.edu/class/archive/engr/engr40m.1178/slides/reactives.pdf.
+(4) capacitor - Steady-State DC Analysis: Inductors and voltage sources .... https://electronics.stackexchange.com/questions/191135/steady-state-dc-analysis-inductors-and-voltage-sources.
+(5) Transient Behavior of Capacitor | Electrical4U. https://www.electrical4u.com/transient-behavior-of-capacitor/.
+(6) undefined. http://webphysics.davidson.edu/physlet_resources/bu_semester2/c11_rc.html.
+(7) Getty Images. https://www.gettyimages.com/detail/photo/toroidal-inductor-with-copper-wire-winding-royalty-free-image/1179445536.
+
+I hope this helps!
+
+Source: Conversation with Bing, 26/10/2023
+(1) Transient and steady state analysis Unit 2 - coursecontent. https://coursecontent.indusuni.ac.in/wp-content/uploads/sites/8/2020/09/Unit-II.pdf.
+(2) Steady-State vs Transient Thermal Analysis: What Do They Mean in FEA .... https://bing.com/search?q=transient+and+steady+state+analysis+another+name.
+(3) Steady-State vs Transient Thermal Analysis: What Do They Mean in FEA .... https://www.pages.mechartes.com/resources/2022/9/12/steady-state-transient-thermal-analysis-fea-simulation-model.
+(4) Understanding the Fundamentals: Transient Flow vs. Steady State Flow .... https://engineerexcel.com/transient-flow-vs-steady-state/.
+(5) Control System Transient and Steady State Analysis of Linear Time .... https://www.javatpoint.com/control-system-transient-and-steady-state-analysis-of-linear-time-invariant-systems.
+(6) Steady state - Wikipedia. https://en.wikipedia.org/wiki/Steady_state.
+(7) Steady State vs. Transient State in System Design and Stability Analysis. https://resources.pcb.cadence.com/blog/2020-steady-state-vs-transient-state-in-system-design-and-stability-analysis.
+(8) Transient state - Wikipedia. https://en.wikipedia.org/wiki/Transient_state.

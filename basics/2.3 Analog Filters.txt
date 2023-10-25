@@ -1,0 +1,30 @@
+Sure, I can help you with that. Here is a list of subtopics that you can cover under analog filters:
+
+1. Fundamentals of active filter synthesis
+2. First and second-order circuit synthesis
+3. Standard low-pass filters: Butterworth, Chebyshev, Inverse Chebyshev, Cauer, Bessel
+4. Frequency transformations
+5. Sensitivity analysis
+6. Noise analysis
+
+You can also explore the following resources to learn more about analog filters:
+
+1. [ECE 428 Analog Filter Design Fall 2018 - Southern Illinois University](https://www.siue.edu/~gengel/ece428WebStuff/ece428_syllabus.pdf)
+2. [An Introduction to Electrical Filters - Analog Devices Wiki](https://wiki.analog.com/university/courses/engineering_discovery/lab_5)
+3. [Signal Processing/Analog Filters - Wikibooks](https://en.wikibooks.org/wiki/Signal_Processing/Analog_Filters)
+4. [CHAPTER 8 ANALOG FILTERS - Analog Devices](https://www.analog.com/media/en/training-seminars/design-handbooks/Basic-Linear-Design/Chapter8.pdf)
+5. [Analogue filter - Wikipedia](https://en.wikipedia.org/wiki/Analogue_filter)
+
+I hope this helps!
+
+Source: Conversation with Bing, 26/10/2023
+(1) ECE 428 Analog Filter Design Fall 2018 - Southern Illinois University .... https://www.siue.edu/~gengel/ece428WebStuff/ece428_syllabus.pdf.
+(2) TSTE14 Analog Filters - Syllabus - LiU. https://studieinfo.liu.se/pdf/en/kursplan/TSTE14/vt-2023.
+(3) Op-Amp Implementation of Analog Filters - MIT OpenCourseWare. https://ocw.mit.edu/courses/2-161-signal-processing-continuous-and-discrete-fall-2008/resources/lpopamp/.
+(4) CHAPTER 8 ANALOG FILTERS. https://www.analog.com/media/en/training-seminars/design-handbooks/Basic-Linear-Design/Chapter8.pdf.
+(5) Analogue filter - Wikipedia. https://en.wikipedia.org/wiki/Analogue_filter.
+(6) An Introduction to Electrical Filters [Analog Devices Wiki]. https://wiki.analog.com/university/courses/engineering_discovery/lab_5.
+(7) Signal Processing/Analog Filters - Wikibooks. https://en.wikibooks.org/wiki/Signal_Processing/Analog_Filters.
+(8) Filter (signal processing) - Wikipedia. https://en.wikipedia.org/wiki/Filter_%28signal_processing%29.
+(9) Analog Filters - MATLAB & Simulink - MathWorks India. https://in.mathworks.com/help/signal/analog-filters.html.
+(10) Filter Design Tool | Filter Wizard | Analog Devices. https://tools.analog.com/en/filterwizard/.

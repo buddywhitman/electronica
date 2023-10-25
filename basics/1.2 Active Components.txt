@@ -1,0 +1,38 @@
+Here is a list of subtopics that are usually covered under Active Components:
+
+1. **Transistors**: Transistors are active components that can amplify or switch electronic signals. They are used in a wide range of electronic devices, including amplifiers, oscillators, and digital circuits.
+
+2. **Operational Amplifiers**: Operational amplifiers (op-amps) are active components that can amplify, filter, and perform mathematical operations on electronic signals. They are used in a wide range of electronic devices, including audio equipment, signal processing circuits, and control systems.
+
+3. **Integrated Circuits**: Integrated circuits (ICs) are active components that contain multiple transistors, diodes, and other components on a single chip. They are used in a wide range of electronic devices, including computers, smartphones, and automotive systems.
+
+4. **Diodes**: Diodes are active components that allow current to flow in one direction only. They are used for rectification, voltage regulation, and signal modulation.
+
+5. **Thyristors**: Thyristors are active components that can switch high currents with low power inputs. They are used in power control circuits and motor control circuits.
+
+6. **Amplifiers**: Amplifiers are active components that can increase the amplitude of an electronic signal. They are used in a wide range of electronic devices, including audio equipment, radio transmitters, and medical equipment.
+
+7. **Oscillators**: Oscillators are active components that can generate periodic waveforms at specific frequencies. They are used in a wide range of electronic devices, including clocks, radios, and computers.
+
+Here are some resources you can use for further reading:
+
+¹: "Active Components," Electronics Hub ¹.
+²: "Active Components," All About Circuits ².
+³: "Active Components," GeeksforGeeks ³.
+⁴: "Active Components," Electrical4U ⁴.
+
+I hope this helps! Let me know if you have any further questions.
+
+Source: Conversation with Bing, 26/10/2023
+(1) Model Curriculum for B.Sc. / B.Sc.(Hons.) as per NEP 2020 - Karnataka. https://kshec.karnataka.gov.in/storage/pdf-files/NEP%202020%20ELECTRONICS%20Final%20Draft%20-%20%2012-09-2021%20%281%29.pdf.
+(2) RF Design: Passive and Active Components | edX. https://www.edx.org/learn/electronics/purdue-university-rf-design-passive-and-active-components.
+(3) 8. LAB DETAILS 8.3 ELECTRONIC DEVICES AND CIRCUITS LAB - ASTI. https://www.asti.edu.in/images/pdf/departments/ece-downloads/academic-manuals/lab-manual-2014-15-1sem/lab-hb/edc-ece-lab-hb-18-06-14.pdf.
+(4) “Printed Circuit Board (PCB) Designing” - NIELIT. https://www.nielit.gov.in/chennai/sites/default/files/Chennai/STC2018S05.pdf.
+(5) Electronic engineering - Wikipedia. https://en.wikipedia.org/wiki/Electronic_engineering.
+(6) Electronic component - Wikipedia. https://en.wikipedia.org/wiki/Electronic_component.
+(7) Computing Curricula - IEEE Computer Society. https://www.computer.org/volunteering/boards-and-committees/professional-educational-activities/curricula.
+(8) Chapter 9: Integrated Photonics - IEEE. https://eps.ieee.org/images/files/HIR_2021/ch09_photonics.pdf.
+(9) Chapter 10: Integrated Power Electronics - IEEE. https://eps.ieee.org/images/files/HIR_2021/ch10_power.pdf.
+(10) 1 Basic Electronics and Computer Fundamentals - NCERT. https://ncert.nic.in/vocational/pdf/keit101.pdf.
+(11) Curriculum for B. Tech (Electronics and Communication Engineering) of .... https://www.iitbbs.ac.in/curriculum_doc/ece_btech.pdf.
+(12) ELECTRONIC WORKSHOP & PCB LAB - Dronacharya Group of Institutions .... https://gnindia.dronacharya.info/ECE/Downloads/Labmanuals/Electronic_Workshop_PCB_Lab2.pdf.

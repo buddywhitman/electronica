@@ -1,0 +1,32 @@
+Sure, here is a list of subtopics that you can cover under logic gates and synthesis:
+
+1. Logic gates basics
+2. Boolean algebra
+3. Karnaugh maps
+4. Combinational circuits
+5. Sequential circuits
+6. RTL design
+7. Gate-level design
+8. Synthesis tools
+
+You can also explore the following resources to learn more about these topics:
+
+1. [Logic gate - Wikipedia](https://en.wikipedia.org/wiki/Logic_gate)⁶
+2. [Logic Synthesis in Digital Electronics - GeeksforGeeks](https://www.geeksforgeeks.org/logic-synthesis-in-digital-electronics/)¹
+3. [Synthesis: Verilog Gates - MIT OpenCourseWare](https://ocw.mit.edu/courses/6-884-complex-digital-systems-spring-2005/cd0e615c3efbd1ef22ee9330075035f2_l05_synthesis.pdf)¹¹
+4. [L02 Logic Synthesis 2019 - MIT](https://web.mit.edu/6.111/volume2/www/f2019/handouts/L02.pdf)⁹
+
+I hope this helps!
+
+Source: Conversation with Bing, 26/10/2023
+(1) Logic gate - Wikipedia. https://en.wikipedia.org/wiki/Logic_gate.
+(2) Logic Synthesis in Digital Electronics - GeeksforGeeks. https://www.geeksforgeeks.org/logic-synthesis-in-digital-electronics/.
+(3) Synthesis: Verilog Gates - MIT OpenCourseWare. https://ocw.mit.edu/courses/6-884-complex-digital-systems-spring-2005/cd0e615c3efbd1ef22ee9330075035f2_l05_synthesis.pdf.
+(4) L02 Logic Synthesis 2019 - MIT. https://web.mit.edu/6.111/volume2/www/f2019/handouts/L02.pdf.
+(5) NPTEL Syllabus - Digital Circuits and Systems. https://archive.nptel.ac.in/content/syllabus_pdf/117106086.pdf.
+(6) Switching Circuits and Logic Design CS21002 (3-1-0) - IITKGP. http://www.facweb.iitkgp.ac.in/~isg/SWITCHING/index.html.
+(7) Computer Science and Engineering - NPTEL. https://archive.nptel.ac.in/courses/106/105/106105185/.
+(8) Syllabus B.Tech. (Electrical & Electronics Engineering), 3 rd semester. https://www.rtu.ac.in/home/wp-content/uploads/2015/05/BTech_Syllabus-EEE-3-8-Sem.pdf.
+(9) Logic synthesis - Wikipedia. https://en.wikipedia.org/wiki/Logic_synthesis.
+(10) Logic Gates - Definition, Types, Uses - GeeksforGeeks. https://www.geeksforgeeks.org/logic-gates/.
+(11) SynthHESer - Aldec’s New Synthesis Tool. https://www.aldec.com/en/company/blog/187--synthheser-aldecs-new-synthesis-tool.

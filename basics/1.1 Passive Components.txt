@@ -1,0 +1,40 @@
+Here is a list of subtopics that are usually covered under Passive Components:
+
+1. **Resistors**: Resistors are passive components that resist the flow of electric current. They are used to limit current, divide voltages, and terminate transmission lines.
+
+2. **Capacitors**: Capacitors are passive components that store electrical energy in an electric field. They are used for filtering, decoupling, and energy storage.
+
+3. **Inductors**: Inductors are passive components that store electrical energy in a magnetic field. They are used for filtering, energy storage, and impedance matching.
+
+4. **Transformers**: Transformers are passive components that transfer electrical energy from one circuit to another through electromagnetic induction. They are used for voltage conversion, impedance matching, and isolation.
+
+5. **Diodes**: Diodes are passive components that allow current to flow in one direction only. They are used for rectification, voltage regulation, and signal modulation.
+
+6. **Switches**: Switches are passive components that can open or close a circuit. They are used for signal routing, power switching, and logic control.
+
+7. **Fuses**: Fuses are passive components that protect circuits from overcurrent conditions. They are used for safety and protection.
+
+8. **Cables and Connectors**: Cables and connectors are passive components that provide electrical connections between circuits and devices.
+
+Here are some resources you can use for further reading:
+
+¹: "Passive Components," Analog Devices ¹.
+²: "Passive Components," Electronics Hub ².
+³: "Passive Components," All About Circuits ³.
+⁴: "Passive Components," GeeksforGeeks ⁴.
+
+I hope this helps! Let me know if you have any further questions.
+
+Source: Conversation with Bing, 26/10/2023
+(1) “Printed Circuit Board (PCB) Designing” - NIELIT. https://www.nielit.gov.in/chennai/sites/default/files/Chennai/STC2018S05.pdf.
+(2) 8. LAB DETAILS 8.3 ELECTRONIC DEVICES AND CIRCUITS LAB - ASTI. https://www.asti.edu.in/images/pdf/departments/ece-downloads/academic-manuals/lab-manual-2014-15-1sem/lab-hb/edc-ece-lab-hb-18-06-14.pdf.
+(3) 1 Basic Electronics and Computer Fundamentals - NCERT. https://ncert.nic.in/vocational/pdf/keit101.pdf.
+(4) CHAPTER 10: PASSIVE COMPONENTS - Analog Devices. https://www.analog.com/media/en/training-seminars/design-handbooks/Basic-Linear-Design/Chapter10.pdf.
+(5) Training program in electronic passive components education | IEEE .... https://ieeexplore.ieee.org/document/1008188/.
+(6) Chapter 10: Integrated Power Electronics - IEEE. https://eps.ieee.org/images/files/HIR_2021/ch10_power.pdf.
+(7) Integrated Passive Component Technology - IEEE Xplore. https://ieeexplore.ieee.org/book/5426840.
+(8) F.Y. B. Sc. Electronic Science Paper I: Principles of Analog Electronics. http://unipune.ac.in/Syllabi_PDF/Facutly%20of%20Science/F.Y.B.Sc.%20Syllabus/3.%20F.Y.B.Sc%20Electroinic%20Science%20Syllabus.pdf.
+(9) Electronic component - Wikipedia. https://en.wikipedia.org/wiki/Electronic_component.
+(10) Passivity (engineering) - Wikipedia. https://en.wikipedia.org/wiki/Passivity_%28engineering%29.
+(11) Electronic engineering - Wikipedia. https://en.wikipedia.org/wiki/Electronic_engineering.
+(12) undefined. https://ieeexplore.ieee.org/servlet/opac?punumber=7890.

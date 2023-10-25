@@ -1,0 +1,43 @@
+file:///D:/Downloads/Documents/ee101_basics_1.pdf
+
+
+
+1. **Circuit Variables**: Circuit variables are the quantities used to describe the behavior of electrical circuits. They include voltage, current, power, and energy.
+
+2. **Circuit Elements**: Circuit elements are the basic building blocks of electrical circuits. They include resistors, capacitors, inductors, and voltage and current sources.
+
+3. **Techniques of Circuit Analysis**: Techniques of circuit analysis are the methods used to analyze electrical circuits. They include Kirchhoff's laws, mesh analysis, nodal analysis, and network theorems. KVL, KCL, Wires, meshes, grounding, earthing, star and delta connections
+
+4. **Network Theorems**: Network theorems are mathematical statements that describe the behavior of electrical networks. They include Thevenin's theorem, Norton's theorem, superposition theorem, maximum power transfer theorem, and reciprocity theorem.
+
+5. **Transient Response of Circuits**: Transient response of circuits is the behavior of circuits during the transition from one steady state to another. It includes natural response and forced response.
+
+6. **Sinusoidal Steady-State Analysis**: Sinusoidal steady-state analysis is the study of circuits under sinusoidal excitation. It includes phasor representation of sinusoids, impedance and admittance, power in AC circuits, and resonance.
+
+7. **Frequency Response**: Frequency response is the study of how a circuit responds to different frequencies of excitation. It includes Bode plots and frequency response of filters.
+
+8. **Two-Port Networks**: Two-port networks are electrical networks with two pairs of terminals for input and output signals. They are used to model linear electrical systems.
+
+Here are some resources you can use for further reading:
+
+¹: "Electrical Circuit Analysis," Electronics Hub ¹.
+²: "Electric Circuit Analysis," Wikiversity ².
+³: "Electric Circuit Analysis," All About Circuits ³.
+⁴: "Electrical Circuit Analysis," GeeksforGeeks ⁴.
+
+I hope this helps! Let me know if you have any further questions.
+
+Source: Conversation with Bing, 26/10/2023
+(1) EE3251 - ELECTRIC CIRCUIT ANALYSIS (Syllabus) 2021-regulation Anna .... https://www.notesforgeeks.in/2022/03/ee3251-electric-circuit-analysis-syllabus-2021-regulation.html.
+(2) EE Electrical Engineering - IIT Kgp. https://gate.iitkgp.ac.in/documents/gatesyllabus/ee_2022.pdf.
+(3) EC8251 - Circuit Analysis - Regulation 2017 Syllabus - STUCOR. https://stucor.in/syllabus/s-ec8251/.
+(4) (PDF) Electrical Circuit Analysis | Patrick Kitheka - Academia.edu. https://www.academia.edu/21718430/Electrical_Circuit_Analysis.
+(5) Electric Circuit Analysis - Wikiversity. https://en.wikiversity.org/wiki/Electric_Circuit_Analysis.
+(6) EE 220.001 CIRCUIT THEORY - Texas A&M University-Commerce. https://inside.tamuc.edu/academics/cvSyllabi/syllabi/202020/21360.pdf.
+(7) EC3251 - CIRCUIT ANALYSIS (Syllabus) 2021-regulation Anna University. https://www.notesforgeeks.in/2022/03/ec3251-circuit-analysis-syllabus-2021-regulation.html.
+(8) ELECTRICAL CIRCUIT ANALYSIS C - Gayatri Vidya Parishad College of .... https://www.gvpce.ac.in/EEE/syllabus/R-2020/III-Sem/ELECTRICAL%20CIRCUIT%20ANALYSIS.pdf.
+(9) EE5304: Electric Circuit Analysis Syllabus for EEE 3rd Sem 2019 .... https://www.inspirenignite.com/anna-university/ee5304-electric-circuit-analysis-syllabus-for-eee-3rd-sem-2019-regulation-anna-university/.
+(10) EE3251: Electric Circuit Analysis syllabus for EEE 2021 regulation. https://www.inspirenignite.com/anna-university/ee3251-electric-circuit-analysis-syllabus-for-eee-2021-regulation/.
+(11) [PDF] EE3251 Electric Circuit Analysis (ECA) Books, Lecture Notes, 2 .... https://learnengineering.in/ee3251-electric-circuit-analysis/.
+(12) [PDF] EE3251 Electric Circuit Analysis (ECA) Books, Lecture Notes .... https://easyengineering.net/ee3251-electric-circuit-analysis-notes/.
+(13) ELECTRICAL CIRCUIT ANALYSIS - BIET. https://biet.ac.in/pdfs/ELECTRICALCIRCUIT2.pdf.

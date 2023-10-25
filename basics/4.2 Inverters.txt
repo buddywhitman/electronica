@@ -1,0 +1,29 @@
+Sure, here is a list of subtopics that you can cover under inverters:
+
+1. Inverter basics
+2. Classification of inverters
+3. Applications of inverters
+4. Power rating classification
+
+You can also explore the following resources to learn more about inverters:
+
+1. [Inverter Basics: Classification and Applications - EE Power School](https://eepowerschool.com/power-electronics/inverter-basics-classification-and-applications/)
+2. [Advanced Power Electronics and Smart Inverters - NREL](https://www.nrel.gov/grid/power-electronics-inverters.html)
+3. [Solar Integration: Inverters and Grid Services Basics - Energy.gov](https://www.energy.gov/eere/solar/solar-integration-inverters-and-grid-services-basics)
+4. [AN INTRODUCTION TO INVERTER-BASED RESOURCES ON THE BULK POWER SYSTEM - NERC](https://www.nerc.com/pa/Documents/2023_NERC_Guide_Inverter-Based-Resources.pdf)
+
+I hope this helps!
+
+Source: Conversation with Bing, 26/10/2023
+(1) Power inverter - Wikipedia. https://en.wikipedia.org/wiki/Power_inverter.
+(2) Inverter - Simple English Wikipedia, the free encyclopedia. https://simple.wikipedia.org/wiki/Inverter.
+(3) Power Inverters: What Are They & How Do They Work?. https://www.electrical4u.com/power-inverter/.
+(4) Power electronics - Wikipedia. https://en.wikipedia.org/wiki/Power_electronics.
+(5) Curriculum and Syllabus Master of Engineering Power Electronics and Drives. https://www.ssn.edu.in/wp-content/uploads/2020/06/PG_CURRICULAM_ME_PED-1.pdf.
+(6) Syllabus | Power Electronics | Electrical Engineering and Computer .... https://ocw.mit.edu/courses/6-334-power-electronics-spring-2007/pages/syllabus/.
+(7) Inverter : Learn most important power electronics converter. https://www.udemy.com/course/inverter-1/.
+(8) NPTEL :: Electrical Engineering - NOC:Power Electronics. https://archive.nptel.ac.in/courses/108/102/108102145/.
+(9) Inverter Basics: Classification and Applications | EE Power School. https://eepowerschool.com/power-electronics/inverter-basics-classification-and-applications/.
+(10) Advanced Power Electronics and Smart Inverters | Grid Modernization | NREL. https://www.nrel.gov/grid/power-electronics-inverters.html.
+(11) AN INTRODUCTION TO INVERTER-BASED RESOURCES ON THE BULK POWER SYSTEM - NERC. https://www.nerc.com/pa/Documents/2023_NERC_Guide_Inverter-Based-Resources.pdf.
+(12) Solar Integration: Inverters and Grid Services Basics. https://www.energy.gov/eere/solar/solar-integration-inverters-and-grid-services-basics.
